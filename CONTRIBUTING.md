@@ -4,3 +4,4 @@ This list contains the name of all the contributors:
 3. [Pushkar Bansal](https://github.com/bansalpushkar3)
 4. [Suchali Bansal](https://github.com/suchali)
 5. [Kunika Singla](https://github.com/singlakunika)
+6. [Aditya Maheshwari](https://github.com/adityamaheshwari2000)
